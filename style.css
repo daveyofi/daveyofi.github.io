@@ -19,10 +19,13 @@ ul, li {
   margin-left: 0
 }
 
-
 nav.huubt {
   margin-bottom: 2em
 }
+
+footer {
+  padding-bottom: 0
+}    
 
 #cookies-note {
   display: none
