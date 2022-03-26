@@ -10,5 +10,20 @@ body {
 }
 
 header, main, footer {
-  padding: 3% 5%;
+  padding: 3% 5%
 }
+
+ul, li {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0
+}
+
+
+nav.huubt {
+  margin-bottom: 2em
+}
+
+#cookies-note {
+  display: none
+}    
