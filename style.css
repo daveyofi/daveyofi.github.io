@@ -9,9 +9,12 @@ body {
   cursor: default;
 }
 
-header, main, footer {
+header {
   padding: 3% 5%
 }
+
+main {
+  padding: 0 5% 3%
 
 ul, li {
   list-style: none;
