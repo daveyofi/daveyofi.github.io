@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://daveyofi.github.io/sitemap.xml
+Sitemap: https://www.yofi.gq/sitemap.xml
