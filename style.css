@@ -31,6 +31,10 @@ footer {
   padding: 3% 5% 1%
 }    
 
+footer p small>span {
+  display: none
+}    
+
 #cookies-note {
   display: none
 }    
