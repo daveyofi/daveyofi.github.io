@@ -20,12 +20,13 @@ header {
 }
 
 main {
-  padding: 0 3% 3%
+  padding: 2% 3% 3%
 }
 
 nav {
   padding: 0;
-  margin: 0
+  margin: 0;
+  background: #eee
 }    
 nav li {
   display: inline;
@@ -43,7 +44,7 @@ nav.huubt {
 }
 
 footer {
-  padding: 3% 5% 1%
+  padding: 3% 3% 1%
 }    
 
 footer p small>span {
