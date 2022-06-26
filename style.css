@@ -15,8 +15,17 @@ a:hover {
   text-decoration: underline
 }    
 
+
+h2 {
+  font-size: 80%;
+  text-transform: lowercase;
+  letter-spacing: .1em;
+}  
+
+
+
 header {
-  padding: 2% 3%
+  padding: 2% 3% 0
 }
 
 main {
@@ -26,17 +35,16 @@ main {
 nav {
   padding: 0;
   margin: 0;
-  background: #eee
 }    
 nav li {
   display: inline;
-  margin-right: 2em
+  margin-right: 1em
 }    
 
 ul, li {
   list-style: none;
-  padding-left: 0;
-  margin-left: 0
+  padding: 0;
+  margin: 0
 }
 
 nav.huubt {
