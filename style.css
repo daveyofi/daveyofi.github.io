@@ -25,6 +25,11 @@ h2 {
   text-transform: lowercase;
   letter-spacing: .2em;
 }  
+footer h3 {
+  font-size: 1rem;
+  margin-right: 3em;
+  display: inline-block;
+}  
 
 
 
