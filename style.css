@@ -63,10 +63,10 @@ ul, ol, li {
 
 
 #layout {
-  margin: 10vh auto;
+  margin: 10vh auto 100px;
   padding: 2em;
   min-width: 300px;
-  max-width: 920px;
+  max-width: 720px;
   display: block;
   border: 2px solid black;
 }  
