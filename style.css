@@ -88,3 +88,14 @@ footer p small>span {
 #cookies-note {
   display: none
 }    
+
+
+@media only screen and (max-width: 800px) {
+  #layout {
+      margin: 0;
+  padding: 0;
+  min-width: auto;
+  max-width: auto;
+  border: 0;
+  }
+}  
