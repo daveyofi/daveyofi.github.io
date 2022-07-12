@@ -61,6 +61,18 @@ ul, ol, li {
   margin: 0
 }
 
+
+#layout {
+  margin: 10vh auto;
+  padding: 2em;
+  min-width: 300px;
+  max-width: 920px;
+  display: block;
+  border: 2px solid black;
+}  
+
+
+
 nav.huubt {
   margin-bottom: 2em
 }
