@@ -63,7 +63,7 @@ ul, ol, li {
 
 
 #layout {
-  margin: 10% auto;
+  margin: 5vh auto 10vh;
   padding: 2em;
   min-width: 300px;
   max-width: 720px;
