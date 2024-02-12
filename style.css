@@ -10,11 +10,23 @@ main {
   text-align: center
 }
 
+h1 {
+  text-transform: lowercase;
+  letter-sapcing: -.125em;
+  em {
+    display: none
+  }
+  i {
+    font-weight: normal;
+    font-style: normal
+  }  
+}
+
 h2 {
   font: normal 1em sans-serif;
   letter-spacing: .15em;
   opacity: .65;
-  margin: 10vh 5% 22vh
+  margin: 10vh 5% 18vh
 }
 
 p {
