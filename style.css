@@ -29,6 +29,14 @@ h2 {
   margin: 10vh 5% 18vh
 }
 
+a {
+  text-decoration: none;
+  color: #000;
+  :hover {
+    opacity: .85
+  }
+}
+
 p {
   font-size: 4.25em
 }
